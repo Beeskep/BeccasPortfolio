@@ -7,4 +7,4 @@ image:
     alt: "Chillis on the tree"
 ---
 
-Oil painting of Chillis on the tree.
+Oil painting of Chillis on a tree.

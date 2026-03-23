@@ -83,6 +83,7 @@ const init = () => {
 };
 
 // Execute a callback only if the current page is the home page.
+// @ts-ignore
 const handlePageEvent = (event, callback) => {
   const page = document.documentElement.getAttribute('data-page');
   if (page === 'home') callback();
